@@ -1,7 +1,7 @@
 # GALAXY SIMULATOR
 
 link:
-[link](https://galaxy-simulator.web.app)
+[[link](https://galaxy-simulator.web.app)](https://galaxy-simulator.web.app)
 
 
 ## Setup
